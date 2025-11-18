@@ -1,0 +1,5 @@
+.idea/
+.venv/
+cinema/db.sqlite3
+cinema/photos/
+cinema/__pycache__
